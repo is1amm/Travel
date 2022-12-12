@@ -1,4 +1,5 @@
-# Travel-html.css.js
+# Travel-адаптивная верстка
+https://travel-html-css-js-123-git-main-is1amm.vercel.app/
 
 Есть адаптив до 460рх
 В написании разметки использовалось методология БЕМ
